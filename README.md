@@ -1,6 +1,6 @@
 # Stress-analysis-using-ML-Algo
 
-##About Dataset
+## About Dataset
 The dataset was collected while wearing the watch. For duration of the study conducted the participant was made to drive on a city road and on a Highway. The starting point was City1which had traffic and narrow roads for the driver to drive. From where the route was taken as such which includes an highway and lesser traffic but fast moving then from there we arrive at City 2 which again is filled with all sorts of traffic and bumpy roads. In the city 2 from a round about U turn was taken and same route was taken till end point in city1 which is also the starting point.
 The dataset contains following fields :
 Participant code: Every participant or the subject on whom the activity was performed has been given code. This code is acronymized with two alphabets and a digit at the third place.
@@ -24,13 +24,13 @@ Evaluation paraemeters are shown below with accuracy, f1 score, support precisio
 
 ![Evaluation Parameters](https://github.com/Aarushi-1/Stress-analysis-using-ML-Algo/blob/master/Major%20Project%20Images/3_Evaluation.png)
 
-##Stress prediction using custom values
+## Stress prediction using custom values
 
 The following output is predicted for the given custom inputs is:
 
 ![Prediction result](https://github.com/Aarushi-1/Stress-analysis-using-ML-Algo/blob/master/Major%20Project%20Images/4_Predicted%20Output.png)
 
-##Graphical Representations:
+## Graphical Representations:
 
 ![coloured stress levels](https://github.com/Aarushi-1/Stress-analysis-using-ML-Algo/blob/master/Major%20Project%20Images/Mapped%20color%20coded%20graph.png)
 
@@ -42,12 +42,12 @@ The graph shows the error rate for the algorithm.
 
 ![individual plots](https://github.com/Aarushi-1/Stress-analysis-using-ML-Algo/blob/master/Major%20Project%20Images/Individual%20graphs.png)
 
-Individual graphs for the feature list.
+Fig-Individual graphs for the feature list.
 
 ![line plot](https://github.com/Aarushi-1/Stress-analysis-using-ML-Algo/blob/master/Major%20Project%20Images/Line%20Plot.png)
 
-Line plot for the feature list
+Fig-Line plot for the feature list
 
 ![error rate](https://github.com/Aarushi-1/Stress-analysis-using-ML-Algo/blob/master/Major%20Project%20Images/5_Error%20Rate%20Graph.png)
 
-Error rate graph
+Fig-Error rate graph
